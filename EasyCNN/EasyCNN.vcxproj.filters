@@ -24,9 +24,63 @@
     <ClCompile Include="examples\mnist_data_loader.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="examples\ConvolutionLayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\DataLayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\FullconnectLayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\Layer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\PoolingLayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\ActivationLayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\NetWork.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\SoftmaxLayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="examples\mnist_data_loader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\Configure.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\ConvolutionLayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\Layer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\DataLayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\EasyCNN.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\FullconnectLayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\PoolingLayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\ActivationLayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\Network.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="examples\SoftmaxLayer.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -11,11 +11,29 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="examples\ActivationLayer.cpp" />
+    <ClCompile Include="examples\ConvolutionLayer.cpp" />
+    <ClCompile Include="examples\DataLayer.cpp" />
+    <ClCompile Include="examples\FullconnectLayer.cpp" />
+    <ClCompile Include="examples\Layer.cpp" />
     <ClCompile Include="examples\main.cpp" />
     <ClCompile Include="examples\mnist_data_loader.cpp" />
+    <ClCompile Include="examples\NetWork.cpp" />
+    <ClCompile Include="examples\PoolingLayer.cpp" />
+    <ClCompile Include="examples\SoftmaxLayer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="examples\ActivationLayer.h" />
+    <ClInclude Include="examples\Configure.h" />
+    <ClInclude Include="examples\ConvolutionLayer.h" />
+    <ClInclude Include="examples\DataLayer.h" />
+    <ClInclude Include="examples\EasyCNN.h" />
+    <ClInclude Include="examples\FullconnectLayer.h" />
+    <ClInclude Include="examples\Layer.h" />
     <ClInclude Include="examples\mnist_data_loader.h" />
+    <ClInclude Include="examples\PoolingLayer.h" />
+    <ClInclude Include="examples\Network.h" />
+    <ClInclude Include="examples\SoftmaxLayer.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3371F361-CB54-4DEB-94E2-48809F94F6B4}</ProjectGuid>
